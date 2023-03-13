@@ -3,7 +3,7 @@
 /*Constants*/
 #define TERMINAL "st"
 #define BROWSER "firefox"
-#define FILEM "mc"
+#define FILEM "ranger"
 #define TEXTED "geany"
 
 /* appearance */
